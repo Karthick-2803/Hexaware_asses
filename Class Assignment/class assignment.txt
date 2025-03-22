@@ -1,0 +1,169 @@
+Assignment 2
+
+CREATE TABLE DEPT (
+    DEPTNO INT PRIMARY KEY,
+    DNAME VARCHAR(50),
+    LOC VARCHAR(50)
+)
+
+CREATE TABLE EMP (
+    EMPNO INT PRIMARY KEY,
+    ENAME VARCHAR(50),
+    JOB VARCHAR(50),
+    MGR_ID INT,
+    HIREDATE DATE,
+    SAL DECIMAL(10,2),
+    COMM DECIMAL(10,2),
+    DEPTNO INT,
+    FOREIGN KEY (DEPTNO) REFERENCES DEPT(DEPTNO),
+    FOREIGN KEY (MGR_ID) REFERENCES EMP(EMPNO)
+)
+
+INSERT INTO DEPT (DEPTNO, DNAME, LOC) VALUES
+(10, 'ACCOUNTING', 'NEW YORK'),
+(20, 'RESEARCH', 'DALLAS'),
+(30, 'SALES', 'CHICAGO'),
+(40, 'OPERATIONS', 'BOSTON')
+
+INSERT INTO EMP (EMPNO, ENAME, JOB, MGR_ID, HIREDATE, SAL, COMM, DEPTNO) VALUES
+(7369, 'SMITH', 'CLERK', 7902, '1980-12-17', 800, NULL, 20),
+(7499, 'ALLEN', 'SALESMAN', 7698, '1981-02-20', 1600, 300, 30),
+(7521, 'WARD', 'SALESMAN', 7698, '1981-02-22', 1250, 500, 30),
+(7566, 'JONES', 'MANAGER', 7839, '1981-04-02', 2975, NULL, 20),
+(7654, 'MARTIN', 'SALESMAN', 7698, '1981-09-28', 1250, 1400, 30),
+(7698, 'BLAKE', 'MANAGER', 7839, '1981-05-01', 2850, NULL, 30),
+(7782, 'CLARK', 'MANAGER', 7839, '1981-06-09', 2450, NULL, 10),
+(7788, 'SCOTT', 'ANALYST', 7566, '1987-04-19', 3000, NULL, 20),
+(7839, 'KING', 'PRESIDENT', NULL, '1981-11-17', 5000, NULL, 10),
+(7844, 'TURNER', 'SALESMAN', 7698, '1981-09-08', 1500, 0, 30),
+(7876, 'ADAMS', 'CLERK', 7788, '1987-05-23', 1100, NULL, 20),
+(7900, 'JAMES', 'CLERK', 7698, '1981-12-03', 950, NULL, 30),
+(7902, 'FORD', 'ANALYST', 7566, '1981-12-03', 3000, NULL, 20),
+(7934, 'MILLER', 'CLERK', 7782, '1982-01-23', 1300, NULL, 10)
+
+select * from Emp
+
+--1
+select * from emp where ename like 'A%'
+
+--2
+select * from emp where MGR_ID is null
+
+--3
+select ename,empno,sal from emp where sal between 1200 and 1400
+
+--4
+select * from emp where DEPTNO = (select DEPTNO from DEPT where DNAME = 'RESEARCH')
+update EMP set SAL = SAL * 1.10 where DEPTNO = (select DEPTNO from DEPT where DNAME = 'RESEARCH')
+select * from EMP where DEPTNO = (select DEPTNO from DEPT where DNAME = 'RESEARCH')
+
+--5
+select Count(*) as 'no_of_clerck' from emp where job='clerk'
+
+--6
+select job,avg(sal) as 'avg sal' ,count(*) as 'no_of_peop' from emp group by job
+
+--7
+select * from emp where sal=(select min(sal) from emp) or sal=(select max(sal) from emp)
+
+--8
+select * from DEPT where DEPTNO not in (select distinct DEPTNO from EMP)
+
+--9
+select ENAME, sal from EMP where JOB = 'ANALYST' and SAL > 1200 and DEPTNO = 20 order by ENAME asc
+
+--10
+select DNAME, DEPTNO, sum(SAL) as "Total Salary" from DEPT join emp using (DEPTNO) group by DNAME, DEPTNO
+
+--11
+select ename,sal from emp where ename in('miller','smith')
+
+--12
+select ename from emp where ename like 'A%' or ename like 'M%'
+
+--13
+select ename ,sal*12 as 'yearly sal' from emp where ename='smith'
+
+--14
+select ENAME, SAL from EMP where SAL not between 1500 and 2850
+
+--15
+select MGR_ID, count(*) as "Number of Employees" from EMP where MGR_ID is not null group by MGR_ID having count(*) > 2
+
+Assignment 3
+--16
+select * from emp where job='manager'
+
+--17
+select ename,sal from emp where sal>1000
+
+--18
+select ename ,sal from emp where ename<>'james'
+
+--19
+select * from emp where ename like '%s'
+
+--20
+select * from emp where ename like '%a%'
+
+--21
+select * from emp where ename like '__L%'
+
+--22
+select ename, sal/30 as 'daily sal' from emp where ename='jones'
+
+--23
+select sum(SAL) as "Total Monthly Salary" from EMP
+
+--24
+select avg(SAL * 12) AS "Average Annual Salary" from EMP
+
+--25
+select ENAME, JOB, SAL, DEPTNO from EMP where DEPTNO = 30 and JOB <> 'SALESMAN'
+
+Assignment 4
+
+--26
+select distinct DEPTNO from EMP
+
+--27
+select ENAME as Employee, SAL as 'Monthly Salary'
+from EMP 
+where SAL > 1500 and DEPTNO in (10, 30)
+
+-- 28
+select ENAME, JOB, SAL 
+from EMP 
+where JOB in('MANAGER', 'ANALYST') 
+and SAL not in (1000, 3000, 5000)
+
+-- 29
+select ENAME, SAL, COMM 
+from EMP 
+where COMM > (SAL * 1.10)
+
+--30
+select ename from emp where ename like '%l%l%' and (deptno=30 or MGR_ID=7782)
+
+--31
+select  ENAME, (year(getdate()) - year(HIREDATE)) as Experience 
+from EMP 
+where (year(getdate()) - year(HIREDATE)) between 30 and 40
+
+select count(*) as "Total Employees with Experience"
+FROM EMP 
+WHERE (year(getdate()) - year(HIREDATE)) between 30 and 40
+
+--32
+SELECT D.DNAME, E.ENAME 
+FROM DEPT D 
+LEFT JOIN EMP E ON D.DEPTNO = E.DEPTNO 
+ORDER BY D.DNAME ASC, E.ENAME DESC;
+
+--33
+select ENAME, (year(getdate()) - year(HIREDATE)) as Experience 
+from EMP 
+where ENAME = 'MILLER'
+
+--34
+select * from EMP where len(ENAME) >= 5
