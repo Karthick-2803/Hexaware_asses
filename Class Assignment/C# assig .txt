@@ -1,0 +1,111 @@
+namespace practice_project
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Program program = new Program();
+            //program.equal();
+            //program.chk();
+            //program.operation();
+            //program.table();
+            int res= program.triplet();
+            Console.WriteLine(res);
+        }
+        public void equal()
+        {
+            Console.Write("Enter 1st number: ");
+            int num1 = int.Parse(Console.ReadLine());
+            Console.Write("Enter 2nd number: ");
+            int num2= int.Parse(Console.ReadLine());
+            if(num1==num2)
+            {
+                Console.WriteLine($"{num1} and {num2} are equal"); 
+            }
+            else
+            {
+                Console.WriteLine($"{num1} and {num2} are not equal");
+            }
+
+        }
+        public void chk()
+        {
+            Console.Write("Enter the num: ");
+            int num = int.Parse(Console.ReadLine());
+            if (num>0)
+            {
+                Console.WriteLine($"{num} is a positive number");
+            }
+            else
+            {
+                Console.WriteLine($"{num} is a negative number");
+            }
+        }
+
+        public void operation()
+        {
+            Console.Write("Enter the first num: ");
+            int num1 = int.Parse(Console.ReadLine());
+
+            Console.Write("Enter the operation: ");
+            char operation = Convert.ToChar(Console.ReadLine());
+
+            Console.Write("Enter the second num: ");
+            int num2 = int.Parse(Console.ReadLine());
+
+            switch(operation)
+            {
+                case '+':
+                    Console.WriteLine($"{num1} + {num2} = {num1 + num2}");
+                    break;
+
+                case '-':
+                    Console.WriteLine($"{num1} - {num2} = {num1 - num2}");
+                    break;
+
+                case '*':
+                    Console.WriteLine($"{num1} * {num2} = {num1 * num2}");
+                    break;
+
+                case '/':
+                    Console.WriteLine($"{num1} / {num2} = {num1 / num2}");
+                    break;
+
+                default:
+                    Console.WriteLine("Enter the valid operator");
+                    break;
+            }
+        }
+
+        public void table()
+        {
+            Console.Write("Enter the num: ");
+            int num = int.Parse(Console.ReadLine());
+
+            int index;
+            for(index=1;index<=10;index++)
+            {
+                Console.WriteLine($"{num} * {index} = {num * index}");
+            }
+        }
+
+        public int triplet()
+        {
+            Console.Write("Enter the num1: ");
+            int num1 = int.Parse(Console.ReadLine());
+
+            Console.Write("Enter the num2: ");
+            int num2 = int.Parse(Console.ReadLine());
+
+            if(num1==num2)
+            {
+                return 3 * (num1 + num2);
+            }
+            else
+            {
+                return num1 + num2;
+            }
+
+        }
+    }
+}
