@@ -1,0 +1,190 @@
+using System;
+
+namespace class_practice2
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Program program = new Program();
+            program.swap();
+            //program.pattern();
+            //program.day();
+            //program.AvgArray();
+            //program.MaxminArray();
+            //program.marks();
+            //program.copy();
+        }
+        public void swap()
+        {
+            int a, b;
+             a=int.Parse(Console.ReadLine());
+             b=int.Parse(Console.ReadLine());
+            int temp;
+            temp = a;
+            a=b; 
+            b=temp;
+            Console.WriteLine($"After swapping: {a},{b}");
+        }
+
+        public void pattern()
+        {
+            Console.WriteLine("Enter the num: ");
+            int num=int.Parse(Console.ReadLine());
+            Console.WriteLine("{0} {0} {0} {0}", num);
+            Console.WriteLine("{0}{0}{0}{0}" , num);
+            Console.WriteLine("{0} {0} {0} {0}", num);
+            Console.WriteLine("{0}{0}{0}{0}", num);
+        }
+
+        public void day()
+        {
+            Console.WriteLine("Enter the date: ");
+            int date=int.Parse(Console.ReadLine());
+            switch(date)
+            {
+                case 1:
+                    Console.WriteLine("Monday");
+                    break;
+                case 2:
+                    Console.WriteLine("Tuesday");
+                    break;
+                case 3:
+                    Console.WriteLine("Wednesday");
+                    break;
+                case 4:
+                    Console.WriteLine("Thursday");
+                    break;
+                case 5:
+                    Console.WriteLine("Friday");
+                    break;
+                case 6:
+                    Console.WriteLine("Saturday");
+                    break;
+                case 7:
+                    Console.WriteLine("Sunday");
+                    break;
+                default:
+                    Console.WriteLine("Enter the valid date!!");
+                    break;
+            }
+        }
+        public void AvgArray()
+        {
+            Console.WriteLine("Enter the no of ele:");
+            int N=int.Parse(Console.ReadLine());
+            Console.WriteLine("Enter the ele:");
+            int[] arr=new int[N];
+            int index,sum=0,avg;
+            for (index=0; index<N; index++)
+            {
+                arr[index]=int.Parse(Console.ReadLine());
+            }
+            for(index=0; index<N; index++)
+            {
+                sum = sum + arr[index];
+            }
+            avg=sum/N;
+            Console.WriteLine(avg);
+        }
+        public void MaxminArray()
+        {
+            Console.WriteLine("Enter the no of ele:");
+            int N = int.Parse(Console.ReadLine());
+            Console.WriteLine("Enter the ele:");
+            int[] arr = new int[N];
+            int index,max,min;
+            for(index=0; index<N;index++)
+            {
+                arr[index]= int.Parse(Console.ReadLine());
+            }
+            max = arr[0];
+            for(index= 1; index<N; index++)
+            {
+                if( arr[index] > max )
+                {
+                    max = arr[index];
+                }
+            }
+            Console.WriteLine("The maximum element is : " + max);
+            min = arr[0];
+            for (index = 1; index < N; index++)
+            {
+                if (arr[index] <min)
+                {
+                    min = arr[index];
+                }
+            }
+            Console.WriteLine("The minimum element is : " + min);
+        } 
+
+        public void marks()
+        {
+            Console.WriteLine("Enter the no of ele:");
+            int N = int.Parse(Console.ReadLine());
+            Console.WriteLine("Enter the ele:");
+            int[] arr = new int[N];
+            int index,sum=0,avg;
+            for (index = 0; index < N; index++)
+            {
+                arr[index] = int.Parse(Console.ReadLine());
+            }
+            for(index=0;index<N; index++)
+            {
+                sum += arr[index];
+            }
+            Console.WriteLine("The total is: " + sum);
+
+            avg=sum/N;
+
+            Console.WriteLine("The average is: " + avg);
+            int max, min;
+            max = arr[0];
+            for (index = 1; index < N; index++)
+            {
+                if (arr[index] > max)
+                {
+                    max = arr[index];
+                }
+            }
+            Console.WriteLine("The maximum element is : " + max);
+            min = arr[0];
+            for (index = 1; index < N; index++)
+            {
+                if (arr[index] < min)
+                {
+                    min = arr[index];
+                }
+            }
+            Console.WriteLine("The minimum element is : " + min);
+
+            Array.Sort(arr);
+            Console.WriteLine("The ascending order is: " + string.Join(", ", arr));
+
+            Array.Reverse(arr);
+            Console.WriteLine("The descending order is: " + string.Join(", ", arr));
+        }
+
+        public void copy()
+        {
+            Console.WriteLine("Enter the no of ele:");
+            int N = int.Parse(Console.ReadLine());
+            Console.WriteLine("Enter the ele:");
+            int[] original = new int[N];
+            int[] copy=new int[N];
+            int index;
+            for (index = 0; index < N; index++)
+            {
+                original[index] = int.Parse(Console.ReadLine());
+            }
+            for (index = 0; index < N; index++)
+            {
+                copy[index] = original[index];
+            }
+            for (index = 0; index < N; index++)
+            {
+                Console.WriteLine("The copied array is: " + copy[index]);
+            }
+        }
+    }
+}
