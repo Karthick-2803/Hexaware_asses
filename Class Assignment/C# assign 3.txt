@@ -1,0 +1,103 @@
+1.)
+namespace class_practice3
+{
+    class Employee
+    {
+        protected int id;
+        protected string name;
+        protected string dob;
+        protected double salary;
+
+        public Employee(int id, string name, string dob, double salary)
+        {
+            this.id = id;
+            this.name = name;
+            this.dob = dob;
+            this.salary = salary;
+        }
+
+        public virtual double ComputeSalary()
+        {
+            return salary;
+        }
+
+        public virtual void Display()
+        {
+            Console.WriteLine($"ID: {id}, Name: {name}, DOB: {dob}, Salary: {ComputeSalary()}");
+        }
+    }
+
+    class Manager : Employee
+    {
+        private double onsiteAllowance;
+        private double bonus;
+
+
+        public Manager(int id, string name, string dob, double salary, double onsiteAllowance, double bonus)
+            : base(id, name, dob, salary)  
+        {
+            this.onsiteAllowance = onsiteAllowance;
+            this.bonus = bonus;
+        }
+
+        public override double ComputeSalary()
+        {
+            return salary + onsiteAllowance + bonus;
+        }
+
+        public override void Display()
+        {
+            Console.WriteLine($"ID: {id}, Name: {name}, DOB: {dob}, Salary: {ComputeSalary()}, Allowance: {onsiteAllowance}, Bonus: {bonus}");
+        }
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Employee emp = new Employee(101, "Alice", "1990-5-10", 50000);
+            Console.WriteLine("\nEmployee Details:");
+            emp.Display();
+
+            Manager mgr = new Manager(201, "Bob", "1985-3-15", 70000, 10000, 5000);
+            Console.WriteLine("\nManager Details:");
+            mgr.Display();
+        }
+    }
+}
+
+2.)
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Static
+{
+    class Counter
+    {
+        public static int functionCallCount=0;
+
+        public static void CountFunction()
+        {
+            functionCallCount++;
+            Console.WriteLine("Count Function called!");
+        }
+    }
+}
+﻿namespace Static
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, World!");
+
+            Counter.CountFunction();
+            Counter.CountFunction();
+            Counter.CountFunction();
+
+            Console.WriteLine("The CountFunction has been called {0} times", Counter.functionCallCount);
+        }
+    }
+}
