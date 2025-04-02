@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\MyrefHex\class_5assgn\Assignment5C#\bin\Debug\net8.0\Assignment5C#.exe
+C:\Users\Dell\Desktop\MyrefHex\class_5assgn\Assignment5C#\bin\Debug\net8.0\Assignment5C#.deps.json
+C:\Users\Dell\Desktop\MyrefHex\class_5assgn\Assignment5C#\bin\Debug\net8.0\Assignment5C#.runtimeconfig.json
+C:\Users\Dell\Desktop\MyrefHex\class_5assgn\Assignment5C#\bin\Debug\net8.0\Assignment5C#.dll
+C:\Users\Dell\Desktop\MyrefHex\class_5assgn\Assignment5C#\bin\Debug\net8.0\Assignment5C#.pdb
+C:\Users\Dell\Desktop\MyrefHex\class_5assgn\Assignment5C#\obj\Debug\net8.0\Assignment5C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\MyrefHex\class_5assgn\Assignment5C#\obj\Debug\net8.0\Assignment5C#.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\MyrefHex\class_5assgn\Assignment5C#\obj\Debug\net8.0\Assignment5C#.AssemblyInfo.cs
+C:\Users\Dell\Desktop\MyrefHex\class_5assgn\Assignment5C#\obj\Debug\net8.0\Assignment5C#.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\MyrefHex\class_5assgn\Assignment5C#\obj\Debug\net8.0\Assignment5C#.dll
+C:\Users\Dell\Desktop\MyrefHex\class_5assgn\Assignment5C#\obj\Debug\net8.0\refint\Assignment5C#.dll
+C:\Users\Dell\Desktop\MyrefHex\class_5assgn\Assignment5C#\obj\Debug\net8.0\Assignment5C#.pdb
+C:\Users\Dell\Desktop\MyrefHex\class_5assgn\Assignment5C#\obj\Debug\net8.0\Assignment5C#.genruntimeconfig.cache
+C:\Users\Dell\Desktop\MyrefHex\class_5assgn\Assignment5C#\obj\Debug\net8.0\ref\Assignment5C#.dll

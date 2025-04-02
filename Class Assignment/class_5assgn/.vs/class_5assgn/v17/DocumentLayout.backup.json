@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\MyrefHex\\class_5assgn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16CDB3F5-DFAA-4020-B61C-31896084A5DB}|Assignment5C#\\Assignment5C#.csproj|c:\\users\\dell\\desktop\\myrefhex\\class_5assgn\\assignment5c#\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16CDB3F5-DFAA-4020-B61C-31896084A5DB}|Assignment5C#\\Assignment5C#.csproj|solutionrelative:assignment5c#\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CDB3F5-DFAA-4020-B61C-31896084A5DB}|Assignment5C#\\Assignment5C#.csproj|c:\\users\\dell\\desktop\\myrefhex\\class_5assgn\\assignment5c#\\inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16CDB3F5-DFAA-4020-B61C-31896084A5DB}|Assignment5C#\\Assignment5C#.csproj|solutionrelative:assignment5c#\\inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CDB3F5-DFAA-4020-B61C-31896084A5DB}|Assignment5C#\\Assignment5C#.csproj|c:\\users\\dell\\desktop\\myrefhex\\class_5assgn\\assignment5c#\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16CDB3F5-DFAA-4020-B61C-31896084A5DB}|Assignment5C#\\Assignment5C#.csproj|solutionrelative:assignment5c#\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16CDB3F5-DFAA-4020-B61C-31896084A5DB}|Assignment5C#\\Assignment5C#.csproj|c:\\users\\dell\\desktop\\myrefhex\\class_5assgn\\assignment5c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16CDB3F5-DFAA-4020-B61C-31896084A5DB}|Assignment5C#\\Assignment5C#.csproj|solutionrelative:assignment5c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exceptions.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MyrefHex\\class_5assgn\\Assignment5C#\\Exceptions.cs",
+              "RelativeDocumentMoniker": "Assignment5C#\\Exceptions.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MyrefHex\\class_5assgn\\Assignment5C#\\Exceptions.cs",
+              "RelativeToolTip": "Assignment5C#\\Exceptions.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwCYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T16:55:58.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "inheritance.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MyrefHex\\class_5assgn\\Assignment5C#\\inheritance.cs",
+              "RelativeDocumentMoniker": "Assignment5C#\\inheritance.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MyrefHex\\class_5assgn\\Assignment5C#\\inheritance.cs",
+              "RelativeToolTip": "Assignment5C#\\inheritance.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAmwGYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T08:59:44.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Interface.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MyrefHex\\class_5assgn\\Assignment5C#\\Interface.cs",
+              "RelativeDocumentMoniker": "Assignment5C#\\Interface.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MyrefHex\\class_5assgn\\Assignment5C#\\Interface.cs",
+              "RelativeToolTip": "Assignment5C#\\Interface.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAqwEAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T03:32:02.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MyrefHex\\class_5assgn\\Assignment5C#\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment5C#\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MyrefHex\\class_5assgn\\Assignment5C#\\Program.cs",
+              "RelativeToolTip": "Assignment5C#\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T16:47:57.471Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
