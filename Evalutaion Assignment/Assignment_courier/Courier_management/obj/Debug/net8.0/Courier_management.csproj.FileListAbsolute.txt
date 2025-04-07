@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\MyrefHex\Assignment_courier\Courier_management\bin\Debug\net8.0\Courier_management.exe
+C:\Users\Dell\Desktop\MyrefHex\Assignment_courier\Courier_management\bin\Debug\net8.0\Courier_management.deps.json
+C:\Users\Dell\Desktop\MyrefHex\Assignment_courier\Courier_management\bin\Debug\net8.0\Courier_management.runtimeconfig.json
+C:\Users\Dell\Desktop\MyrefHex\Assignment_courier\Courier_management\bin\Debug\net8.0\Courier_management.dll
+C:\Users\Dell\Desktop\MyrefHex\Assignment_courier\Courier_management\bin\Debug\net8.0\Courier_management.pdb
+C:\Users\Dell\Desktop\MyrefHex\Assignment_courier\Courier_management\obj\Debug\net8.0\Courier_management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\MyrefHex\Assignment_courier\Courier_management\obj\Debug\net8.0\Courier_management.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\MyrefHex\Assignment_courier\Courier_management\obj\Debug\net8.0\Courier_management.AssemblyInfo.cs
+C:\Users\Dell\Desktop\MyrefHex\Assignment_courier\Courier_management\obj\Debug\net8.0\Courier_management.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\MyrefHex\Assignment_courier\Courier_management\obj\Debug\net8.0\Courier_management.dll
+C:\Users\Dell\Desktop\MyrefHex\Assignment_courier\Courier_management\obj\Debug\net8.0\refint\Courier_management.dll
+C:\Users\Dell\Desktop\MyrefHex\Assignment_courier\Courier_management\obj\Debug\net8.0\Courier_management.pdb
+C:\Users\Dell\Desktop\MyrefHex\Assignment_courier\Courier_management\obj\Debug\net8.0\Courier_management.genruntimeconfig.cache
+C:\Users\Dell\Desktop\MyrefHex\Assignment_courier\Courier_management\obj\Debug\net8.0\ref\Courier_management.dll
