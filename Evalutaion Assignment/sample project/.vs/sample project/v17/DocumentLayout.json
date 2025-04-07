@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\MyrefHex\\sample project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74A18AFD-7B2E-4CF7-9E5C-39CD8392E483}|sample project\\sample project.csproj|c:\\users\\dell\\desktop\\myrefhex\\sample project\\sample project\\mainmodule\\couriermanagementmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74A18AFD-7B2E-4CF7-9E5C-39CD8392E483}|sample project\\sample project.csproj|solutionrelative:sample project\\mainmodule\\couriermanagementmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74A18AFD-7B2E-4CF7-9E5C-39CD8392E483}|sample project\\sample project.csproj|C:\\Users\\Dell\\Desktop\\MyrefHex\\sample project\\sample project\\dao\\courieradminserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74A18AFD-7B2E-4CF7-9E5C-39CD8392E483}|sample project\\sample project.csproj|solutionrelative:sample project\\dao\\courieradminserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74A18AFD-7B2E-4CF7-9E5C-39CD8392E483}|sample project\\sample project.csproj|C:\\Users\\Dell\\Desktop\\MyrefHex\\sample project\\sample project\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74A18AFD-7B2E-4CF7-9E5C-39CD8392E483}|sample project\\sample project.csproj|solutionrelative:sample project\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74A18AFD-7B2E-4CF7-9E5C-39CD8392E483}|sample project\\sample project.csproj|C:\\Users\\Dell\\Desktop\\MyrefHex\\sample project\\sample project\\dao\\courieruserserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74A18AFD-7B2E-4CF7-9E5C-39CD8392E483}|sample project\\sample project.csproj|solutionrelative:sample project\\dao\\courieruserserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74A18AFD-7B2E-4CF7-9E5C-39CD8392E483}|sample project\\sample project.csproj|C:\\Users\\Dell\\Desktop\\MyrefHex\\sample project\\sample project\\exceptions\\invalidemployeeidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74A18AFD-7B2E-4CF7-9E5C-39CD8392E483}|sample project\\sample project.csproj|solutionrelative:sample project\\exceptions\\invalidemployeeidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74A18AFD-7B2E-4CF7-9E5C-39CD8392E483}|sample project\\sample project.csproj|C:\\Users\\Dell\\Desktop\\MyrefHex\\sample project\\sample project\\exceptions\\trackingnumbernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74A18AFD-7B2E-4CF7-9E5C-39CD8392E483}|sample project\\sample project.csproj|solutionrelative:sample project\\exceptions\\trackingnumbernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 129,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MyrefHex\\sample project\\sample project\\model\\Employee.cs",
+              "RelativeDocumentMoniker": "sample project\\model\\Employee.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MyrefHex\\sample project\\sample project\\model\\Employee.cs",
+              "RelativeToolTip": "sample project\\model\\Employee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:17:40.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TrackingNumberNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MyrefHex\\sample project\\sample project\\Exceptions\\TrackingNumberNotFoundException.cs",
+              "RelativeDocumentMoniker": "sample project\\Exceptions\\TrackingNumberNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MyrefHex\\sample project\\sample project\\Exceptions\\TrackingNumberNotFoundException.cs",
+              "RelativeToolTip": "sample project\\Exceptions\\TrackingNumberNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T12:19:13.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourierManagementMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MyrefHex\\sample project\\sample project\\Mainmodule\\CourierManagementMenu.cs",
+              "RelativeDocumentMoniker": "sample project\\Mainmodule\\CourierManagementMenu.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MyrefHex\\sample project\\sample project\\Mainmodule\\CourierManagementMenu.cs",
+              "RelativeToolTip": "sample project\\Mainmodule\\CourierManagementMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAM8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T12:09:09.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourierUserServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MyrefHex\\sample project\\sample project\\dao\\CourierUserServiceImpl.cs",
+              "RelativeDocumentMoniker": "sample project\\dao\\CourierUserServiceImpl.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MyrefHex\\sample project\\sample project\\dao\\CourierUserServiceImpl.cs",
+              "RelativeToolTip": "sample project\\dao\\CourierUserServiceImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T10:45:06.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourierAdminServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MyrefHex\\sample project\\sample project\\dao\\CourierAdminServiceImpl.cs",
+              "RelativeDocumentMoniker": "sample project\\dao\\CourierAdminServiceImpl.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MyrefHex\\sample project\\sample project\\dao\\CourierAdminServiceImpl.cs",
+              "RelativeToolTip": "sample project\\dao\\CourierAdminServiceImpl.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T13:15:35.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InvalidEmployeeIdException.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MyrefHex\\sample project\\sample project\\Exceptions\\InvalidEmployeeIdException.cs",
+              "RelativeDocumentMoniker": "sample project\\Exceptions\\InvalidEmployeeIdException.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MyrefHex\\sample project\\sample project\\Exceptions\\InvalidEmployeeIdException.cs",
+              "RelativeToolTip": "sample project\\Exceptions\\InvalidEmployeeIdException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T12:50:09.535Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
