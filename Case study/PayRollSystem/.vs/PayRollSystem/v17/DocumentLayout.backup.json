@@ -1,0 +1,548 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|c:\\users\\dell\\desktop\\myrefhex\\payrollsystem\\payrollmanagement\\repository\\payrollservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|solutionrelative:payrollmanagement\\repository\\payrollservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|c:\\users\\dell\\desktop\\myrefhex\\payrollsystem\\payrollmanagement\\repository\\ipayrollservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|solutionrelative:payrollmanagement\\repository\\ipayrollservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|c:\\users\\dell\\desktop\\myrefhex\\payrollsystem\\payrollmanagement\\service\\payrollservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|solutionrelative:payrollmanagement\\service\\payrollservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96F45C3-88C6-40B9-BA93-BA119FE25CB2}|Payroll\\Payroll.csproj|c:\\users\\dell\\desktop\\myrefhex\\payrollsystem\\payroll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96F45C3-88C6-40B9-BA93-BA119FE25CB2}|Payroll\\Payroll.csproj|solutionrelative:payroll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|c:\\users\\dell\\desktop\\myrefhex\\payrollsystem\\payrollmanagement\\service\\taxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|solutionrelative:payrollmanagement\\service\\taxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|c:\\users\\dell\\desktop\\myrefhex\\payrollsystem\\payrollmanagement\\service\\ipayrollservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|solutionrelative:payrollmanagement\\service\\ipayrollservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|c:\\users\\dell\\desktop\\myrefhex\\payrollsystem\\payrollmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|solutionrelative:payrollmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|c:\\users\\dell\\desktop\\myrefhex\\payrollsystem\\payrollmanagement\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|solutionrelative:payrollmanagement\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|c:\\users\\dell\\desktop\\myrefhex\\payrollsystem\\payrollmanagement\\model\\payroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|solutionrelative:payrollmanagement\\model\\payroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|c:\\users\\dell\\desktop\\myrefhex\\payrollsystem\\payrollmanagement\\service\\financialrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|solutionrelative:payrollmanagement\\service\\financialrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|c:\\users\\dell\\desktop\\myrefhex\\payrollsystem\\payrollmanagement\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|solutionrelative:payrollmanagement\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|c:\\users\\dell\\desktop\\myrefhex\\payrollsystem\\payrollmanagement\\service\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|solutionrelative:payrollmanagement\\service\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|c:\\users\\dell\\desktop\\myrefhex\\payrollsystem\\payrollmanagement\\repository\\employeeservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|solutionrelative:payrollmanagement\\repository\\employeeservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|c:\\users\\dell\\desktop\\myrefhex\\payrollsystem\\payrollmanagement\\repository\\iemployeeservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|solutionrelative:payrollmanagement\\repository\\iemployeeservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96F45C3-88C6-40B9-BA93-BA119FE25CB2}|Payroll\\Payroll.csproj|c:\\users\\dell\\desktop\\myrefhex\\payrollsystem\\payroll\\payroll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D96F45C3-88C6-40B9-BA93-BA119FE25CB2}|Payroll\\Payroll.csproj|solutionrelative:payroll\\payroll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|c:\\users\\dell\\desktop\\myrefhex\\payrollsystem\\payrollmanagement\\payrollmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|solutionrelative:payrollmanagement\\payrollmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|c:\\users\\dell\\desktop\\myrefhex\\payrollsystem\\payrollmanagement\\utility\\dbconnutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|solutionrelative:payrollmanagement\\utility\\dbconnutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|c:\\users\\dell\\desktop\\myrefhex\\payrollsystem\\payrollmanagement\\exceptions\\invalidinputexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|solutionrelative:payrollmanagement\\exceptions\\invalidinputexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|c:\\users\\dell\\desktop\\myrefhex\\payrollsystem\\payrollmanagement\\exceptions\\employeenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|solutionrelative:payrollmanagement\\exceptions\\employeenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|c:\\users\\dell\\desktop\\myrefhex\\payrollsystem\\payrollmanagement\\service\\ifinancialrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|solutionrelative:payrollmanagement\\service\\ifinancialrecordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|c:\\users\\dell\\desktop\\myrefhex\\payrollsystem\\payrollmanagement\\utility\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|solutionrelative:payrollmanagement\\utility\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|c:\\users\\dell\\desktop\\myrefhex\\payrollsystem\\payrollmanagement\\service\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|solutionrelative:payrollmanagement\\service\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|c:\\users\\dell\\desktop\\myrefhex\\payrollsystem\\payrollmanagement\\repository\\taxservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|solutionrelative:payrollmanagement\\repository\\taxservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|c:\\users\\dell\\desktop\\myrefhex\\payrollsystem\\payrollmanagement\\repository\\itaxservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|solutionrelative:payrollmanagement\\repository\\itaxservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|c:\\users\\dell\\desktop\\myrefhex\\payrollsystem\\payrollmanagement\\repository\\ifinancialrecordservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|solutionrelative:payrollmanagement\\repository\\ifinancialrecordservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|c:\\users\\dell\\desktop\\myrefhex\\payrollsystem\\payrollmanagement\\repository\\financialrecordservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|solutionrelative:payrollmanagement\\repository\\financialrecordservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|c:\\users\\dell\\desktop\\myrefhex\\payrollsystem\\payrollmanagement\\model\\tax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|solutionrelative:payrollmanagement\\model\\tax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|c:\\users\\dell\\desktop\\myrefhex\\payrollsystem\\payrollmanagement\\model\\financialrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|solutionrelative:payrollmanagement\\model\\financialrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|c:\\users\\dell\\desktop\\myrefhex\\payrollsystem\\payrollmanagement\\exceptions\\taxcalculationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|solutionrelative:payrollmanagement\\exceptions\\taxcalculationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|c:\\users\\dell\\desktop\\myrefhex\\payrollsystem\\payrollmanagement\\exceptions\\payrollgenerationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|solutionrelative:payrollmanagement\\exceptions\\payrollgenerationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|c:\\users\\dell\\desktop\\myrefhex\\payrollsystem\\payrollmanagement\\exceptions\\financialrecordexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA113C6-3481-42CE-85B7-836AEB353334}|PayrollManagement\\PayrollManagement.csproj|solutionrelative:payrollmanagement\\exceptions\\financialrecordexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TaxServiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\Repository\\TaxServiceRepository.cs",
+              "RelativeDocumentMoniker": "PayrollManagement\\Repository\\TaxServiceRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\Repository\\TaxServiceRepository.cs",
+              "RelativeToolTip": "PayrollManagement\\Repository\\TaxServiceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T09:31:47.747Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPayrollServiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\Repository\\IPayrollServiceRepository.cs",
+              "RelativeDocumentMoniker": "PayrollManagement\\Repository\\IPayrollServiceRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\Repository\\IPayrollServiceRepository.cs",
+              "RelativeToolTip": "PayrollManagement\\Repository\\IPayrollServiceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:14:18.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PayrollServiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\Repository\\PayrollServiceRepository.cs",
+              "RelativeDocumentMoniker": "PayrollManagement\\Repository\\PayrollServiceRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\Repository\\PayrollServiceRepository.cs",
+              "RelativeToolTip": "PayrollManagement\\Repository\\PayrollServiceRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T09:29:21.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PayrollService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\Service\\PayrollService.cs",
+              "RelativeDocumentMoniker": "PayrollManagement\\Service\\PayrollService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\Service\\PayrollService.cs",
+              "RelativeToolTip": "PayrollManagement\\Service\\PayrollService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwEAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:16:59.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaxService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\Service\\TaxService.cs",
+              "RelativeDocumentMoniker": "PayrollManagement\\Service\\TaxService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\Service\\TaxService.cs",
+              "RelativeToolTip": "PayrollManagement\\Service\\TaxService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:25:55.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\Payroll\\Class1.cs",
+              "RelativeDocumentMoniker": "Payroll\\Class1.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\Payroll\\Class1.cs",
+              "RelativeToolTip": "Payroll\\Class1.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowCgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T17:39:01.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPayrollService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\Service\\IPayrollService.cs",
+              "RelativeDocumentMoniker": "PayrollManagement\\Service\\IPayrollService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\Service\\IPayrollService.cs",
+              "RelativeToolTip": "PayrollManagement\\Service\\IPayrollService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:42:26.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Payroll.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\model\\Payroll.cs",
+              "RelativeDocumentMoniker": "PayrollManagement\\model\\Payroll.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\model\\Payroll.cs",
+              "RelativeToolTip": "PayrollManagement\\model\\Payroll.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T05:19:39.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\model\\Employee.cs",
+              "RelativeDocumentMoniker": "PayrollManagement\\model\\Employee.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\model\\Employee.cs",
+              "RelativeToolTip": "PayrollManagement\\model\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T04:09:41.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\Program.cs",
+              "RelativeDocumentMoniker": "PayrollManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\Program.cs",
+              "RelativeToolTip": "PayrollManagement\\Program.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAuwJQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T03:54:31.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FinancialRecordService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\Service\\FinancialRecordService.cs",
+              "RelativeDocumentMoniker": "PayrollManagement\\Service\\FinancialRecordService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\Service\\FinancialRecordService.cs",
+              "RelativeToolTip": "PayrollManagement\\Service\\FinancialRecordService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:33:56.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\Service\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "PayrollManagement\\Service\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\Service\\EmployeeService.cs",
+              "RelativeToolTip": "PayrollManagement\\Service\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T05:42:24.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\Service\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "PayrollManagement\\Service\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\Service\\IEmployeeService.cs",
+              "RelativeToolTip": "PayrollManagement\\Service\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:36:36.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeServiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\Repository\\EmployeeServiceRepository.cs",
+              "RelativeDocumentMoniker": "PayrollManagement\\Repository\\EmployeeServiceRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\Repository\\EmployeeServiceRepository.cs",
+              "RelativeToolTip": "PayrollManagement\\Repository\\EmployeeServiceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T07:30:01.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IEmployeeServiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\Repository\\IEmployeeServiceRepository.cs",
+              "RelativeDocumentMoniker": "PayrollManagement\\Repository\\IEmployeeServiceRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\Repository\\IEmployeeServiceRepository.cs",
+              "RelativeToolTip": "PayrollManagement\\Repository\\IEmployeeServiceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T05:38:22.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Payroll",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\Payroll\\Payroll.csproj",
+              "RelativeDocumentMoniker": "Payroll\\Payroll.csproj",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\Payroll\\Payroll.csproj",
+              "RelativeToolTip": "Payroll\\Payroll.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-10T17:40:00.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PayrollManagement",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\PayrollManagement.csproj",
+              "RelativeDocumentMoniker": "PayrollManagement\\PayrollManagement.csproj",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\PayrollManagement.csproj",
+              "RelativeToolTip": "PayrollManagement\\PayrollManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-10T14:42:27.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DBConnUtil.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\Utility\\DBConnUtil.cs",
+              "RelativeDocumentMoniker": "PayrollManagement\\Utility\\DBConnUtil.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\Utility\\DBConnUtil.cs",
+              "RelativeToolTip": "PayrollManagement\\Utility\\DBConnUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T07:33:04.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InvalidInputException.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\Exceptions\\InvalidInputException.cs",
+              "RelativeDocumentMoniker": "PayrollManagement\\Exceptions\\InvalidInputException.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\Exceptions\\InvalidInputException.cs",
+              "RelativeToolTip": "PayrollManagement\\Exceptions\\InvalidInputException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T05:58:03.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IFinancialRecordService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\Service\\IFinancialRecordService.cs",
+              "RelativeDocumentMoniker": "PayrollManagement\\Service\\IFinancialRecordService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\Service\\IFinancialRecordService.cs",
+              "RelativeToolTip": "PayrollManagement\\Service\\IFinancialRecordService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:44:13.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EmployeeNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\Exceptions\\EmployeeNotFoundException.cs",
+              "RelativeDocumentMoniker": "PayrollManagement\\Exceptions\\EmployeeNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\Exceptions\\EmployeeNotFoundException.cs",
+              "RelativeToolTip": "PayrollManagement\\Exceptions\\EmployeeNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T05:50:40.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "App.Config",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\Utility\\App.Config",
+              "RelativeDocumentMoniker": "PayrollManagement\\Utility\\App.Config",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\Utility\\App.Config",
+              "RelativeToolTip": "PayrollManagement\\Utility\\App.Config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-05T11:15:49.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ITaxService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\Service\\ITaxService.cs",
+              "RelativeDocumentMoniker": "PayrollManagement\\Service\\ITaxService.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\Service\\ITaxService.cs",
+              "RelativeToolTip": "PayrollManagement\\Service\\ITaxService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:43:17.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ITaxServiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\Repository\\ITaxServiceRepository.cs",
+              "RelativeDocumentMoniker": "PayrollManagement\\Repository\\ITaxServiceRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\Repository\\ITaxServiceRepository.cs",
+              "RelativeToolTip": "PayrollManagement\\Repository\\ITaxServiceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:21:05.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IFinancialRecordServiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\Repository\\IFinancialRecordServiceRepository.cs",
+              "RelativeDocumentMoniker": "PayrollManagement\\Repository\\IFinancialRecordServiceRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\Repository\\IFinancialRecordServiceRepository.cs",
+              "RelativeToolTip": "PayrollManagement\\Repository\\IFinancialRecordServiceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T06:29:26.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FinancialRecordServiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\Repository\\FinancialRecordServiceRepository.cs",
+              "RelativeDocumentMoniker": "PayrollManagement\\Repository\\FinancialRecordServiceRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\Repository\\FinancialRecordServiceRepository.cs",
+              "RelativeToolTip": "PayrollManagement\\Repository\\FinancialRecordServiceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T09:34:14.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Tax.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\model\\Tax.cs",
+              "RelativeDocumentMoniker": "PayrollManagement\\model\\Tax.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\model\\Tax.cs",
+              "RelativeToolTip": "PayrollManagement\\model\\Tax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T05:23:07.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FinancialRecord.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\model\\FinancialRecord.cs",
+              "RelativeDocumentMoniker": "PayrollManagement\\model\\FinancialRecord.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\model\\FinancialRecord.cs",
+              "RelativeToolTip": "PayrollManagement\\model\\FinancialRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T05:22:05.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TaxCalculationException.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\Exceptions\\TaxCalculationException.cs",
+              "RelativeDocumentMoniker": "PayrollManagement\\Exceptions\\TaxCalculationException.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\Exceptions\\TaxCalculationException.cs",
+              "RelativeToolTip": "PayrollManagement\\Exceptions\\TaxCalculationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T05:52:01.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PayrollGenerationException.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\Exceptions\\PayrollGenerationException.cs",
+              "RelativeDocumentMoniker": "PayrollManagement\\Exceptions\\PayrollGenerationException.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\Exceptions\\PayrollGenerationException.cs",
+              "RelativeToolTip": "PayrollManagement\\Exceptions\\PayrollGenerationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T05:51:20.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FinancialRecordException.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\Exceptions\\FinancialRecordException.cs",
+              "RelativeDocumentMoniker": "PayrollManagement\\Exceptions\\FinancialRecordException.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\MyrefHex\\PayRollSystem\\PayrollManagement\\Exceptions\\FinancialRecordException.cs",
+              "RelativeToolTip": "PayrollManagement\\Exceptions\\FinancialRecordException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T05:55:34.036Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
